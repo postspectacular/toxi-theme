@@ -3,6 +3,7 @@
 ;; Copyright (C) 2013 Karsten Schmidt.
 ;;
 ;; Author: Karsten Schmidt <info@postspectacular.com>
+;; URL: http://hg.postspectacular.com/toxi-theme/
 ;; Version: 0.1.1
 ;; Package-Requires: ((emacs "24"))
 ;;
@@ -22,7 +23,7 @@
   (error "toxi-theme requires Emacs 24 or later."))
 
 (deftheme toxi
-  "toxi's color theme v0.1.1")
+  "toxi's dark color theme")
 
 (custom-theme-set-faces
  'toxi
