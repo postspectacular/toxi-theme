@@ -3,7 +3,7 @@
 ;; Copyright (C) 2013 Karsten Schmidt.
 ;;
 ;; Author: Karsten Schmidt <info@postspectacular.com>
-;; URL: http://hg.postspectacular.com/toxi-theme/
+;; URL: http://bitbucket.org/postspectacular/toxi-theme/
 ;; Version: 0.1.1
 ;; Package-Requires: ((emacs "24"))
 ;;
