@@ -19,7 +19,7 @@
 ;; You should have received a copy of the GNU General Public License
 ;; along with GNU Emacs.
 
-(unless (>= 24 emacs-major-version)
+(unless (<= 24 emacs-major-version)
   (error "toxi-theme requires Emacs 24 or later."))
 
 (deftheme toxi
